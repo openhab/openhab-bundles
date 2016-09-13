@@ -38,6 +38,7 @@
         <module>openhab2-addons</module>
         <module>bindings/org.openhab.binding.zwave</module>
         <module>uis/org.openhab.ui.habmin</module>
+        <module>uis/org.openhab.ui.habpanel</module>
     </modules>
 
 </project>
