@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <prerequisites>
-        <maven>3.0</maven>
+        <maven>3.1</maven>
     </prerequisites>
 
     <groupId>org.openhab.bundles</groupId>
@@ -26,7 +26,7 @@
     <distributionManagement>
         <snapshotRepository>
             <id>jfrog</id>
-            <url>https://openhab.jfrog.io/openhab/libs-snapshot</url>
+            <url>https://openhab.jfrog.io/openhab/libs-snapshot-local</url>
         </snapshotRepository>
     </distributionManagement>
 
