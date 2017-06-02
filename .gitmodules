@@ -4,7 +4,7 @@
 	branch = master
 [submodule "openhab-core"]
 	path = openhab-core
-	url = https://github.com/kaikreuzer/openhab-core
+	url = https://github.com/openhab/openhab-core
 	branch = master
 [submodule "openhab2-addons"]
 	path = openhab2-addons
