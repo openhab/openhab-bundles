@@ -1,20 +1,20 @@
 [submodule "org.openhab.binding.zwave"]
 	path = bindings/org.openhab.binding.zwave
-	url = https://github.com/openhab/org.openhab.binding.zwave
+	url = ../org.openhab.binding.zwave
 	branch = master
 [submodule "openhab-core"]
 	path = openhab-core
-	url = https://github.com/openhab/openhab-core
+	url = ../openhab-core
 	branch = master
 [submodule "openhab2-addons"]
 	path = openhab2-addons
-	url = https://github.com/openhab/openhab2-addons
+	url = ../openhab2-addons
 	branch = master
 [submodule "org.openhab.ui.habmin"]
 	path = uis/org.openhab.ui.habmin
-	url = https://github.com/openhab/org.openhab.ui.habmin
+	url = ../org.openhab.ui.habmin
 	branch = master
 [submodule "uis/org.openhab.ui.habpanel"]
 	path = uis/org.openhab.ui.habpanel
-	url = https://github.com/openhab/org.openhab.ui.habpanel
+	url = ../org.openhab.ui.habpanel
 	branch = master
