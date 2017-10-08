@@ -20,4 +20,5 @@
 	branch = master
 [submodule "bindings/org.openhab.binding.zigbee"]
 	path = bindings/org.openhab.binding.zigbee
-	url = https://github.com/openhab/org.openhab.binding.zigbee
+	url = ../org.openhab.binding.zigbee
+	branch = master
