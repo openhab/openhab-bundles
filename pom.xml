@@ -8,7 +8,7 @@
 
     <groupId>org.openhab.bundles</groupId>
     <artifactId>pom</artifactId>
-    <version>2.1.0-SNAPSHOT</version>
+    <version>2.4.0-SNAPSHOT</version>
     <name>openHAB</name>
 
     <organization>
@@ -46,6 +46,7 @@
         <module>bindings/org.openhab.binding.zigbee</module>
         <module>bindings/org.openhab.binding.zwave</module>
         <module>uis/org.openhab.ui.habmin</module>
+        <module>uis/org.openhab.ui.habot</module>
         <module>uis/org.openhab.ui.habpanel</module>
     </modules>
 
