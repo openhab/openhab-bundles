@@ -1,7 +1,3 @@
-[submodule "org.openhab.binding.zwave"]
-	path = bindings/org.openhab.binding.zwave
-	url = ../org.openhab.binding.zwave
-	branch = master
 [submodule "openhab-core"]
 	path = openhab-core
 	url = ../openhab-core
@@ -14,6 +10,10 @@
 	path = uis/org.openhab.ui.habmin
 	url = ../org.openhab.ui.habmin
 	branch = master
+[submodule "uis/org.openhab.ui.habot"]
+	path = uis/org.openhab.ui.habot
+	url = ../org.openhab.ui.habot
+	branch = master
 [submodule "uis/org.openhab.ui.habpanel"]
 	path = uis/org.openhab.ui.habpanel
 	url = ../org.openhab.ui.habpanel
@@ -21,4 +21,8 @@
 [submodule "bindings/org.openhab.binding.zigbee"]
 	path = bindings/org.openhab.binding.zigbee
 	url = ../org.openhab.binding.zigbee
+	branch = master
+[submodule "org.openhab.binding.zwave"]
+	path = bindings/org.openhab.binding.zwave
+	url = ../org.openhab.binding.zwave
 	branch = master
