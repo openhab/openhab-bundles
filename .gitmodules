@@ -6,18 +6,6 @@
 	path = openhab2-addons
 	url = ../openhab2-addons
 	branch = master
-[submodule "org.openhab.ui.habmin"]
-	path = uis/org.openhab.ui.habmin
-	url = ../org.openhab.ui.habmin
-	branch = master
-[submodule "uis/org.openhab.ui.habot"]
-	path = uis/org.openhab.ui.habot
-	url = ../org.openhab.ui.habot
-	branch = master
-[submodule "uis/org.openhab.ui.habpanel"]
-	path = uis/org.openhab.ui.habpanel
-	url = ../org.openhab.ui.habpanel
-	branch = master
 [submodule "bindings/org.openhab.binding.zigbee"]
 	path = bindings/org.openhab.binding.zigbee
 	url = ../org.openhab.binding.zigbee
