@@ -1,16 +1,12 @@
-[submodule "openhab-core"]
-	path = openhab-core
-	url = ../openhab-core
-	branch = master
 [submodule "openhab2-addons"]
 	path = openhab2-addons
 	url = ../openhab2-addons
-	branch = master
+	branch = 2.5.x
 [submodule "bindings/org.openhab.binding.zigbee"]
 	path = bindings/org.openhab.binding.zigbee
 	url = ../org.openhab.binding.zigbee
-	branch = master
+	branch = 2.5.x
 [submodule "org.openhab.binding.zwave"]
 	path = bindings/org.openhab.binding.zwave
 	url = ../org.openhab.binding.zwave
-	branch = master
+	branch = 2.5.x
